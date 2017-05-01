@@ -2,3 +2,5 @@ target
 tmp
 *.bundle
 *.so
+tags
+tags.temp

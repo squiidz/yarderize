@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors      = ['Squiidz']
   s.summary      = 'Native implementation of shunting yard'
   s.files        = Dir['{lib/**/*,[A-Z]*}']
-  s.homepage     = 'https://github.com/squiidz/yard'
+  s.homepage     = 'https://github.com/squiidz/yarderize'
 
   s.platform     = Gem::Platform::RUBY
   s.require_path = 'lib'
