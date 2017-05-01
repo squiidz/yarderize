@@ -1,0 +1,10 @@
+[package]
+name = "yarderize"
+version = "0.1.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+helix = "0.5.0"
+yard = "0.2.5"
